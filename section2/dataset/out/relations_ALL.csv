@@ -1,0 +1,713 @@
+:END_ID,:START_ID,:TYPE,line:string,time:float
+Fort d'Aubervilliers,Aubervilliers Pantin (4 Chemins),SUBWAY,7,132.85930408472012
+Poissonnière,Cadet,SUBWAY,7,62.269288956127085
+Place Monge (Jardin des Plantes),Censier-Daubenton,SUBWAY,7,69.56127080181544
+Le Peletier,Chaussée d'Antin (La Fayette),SUBWAY,7,76.3086232980333
+Louis Blanc,Château Landon,SUBWAY,7,89.37972768532528
+Pont Neuf,Châtelet,SUBWAY,7,83.8729198184569
+Porte de la Villette,Corentin-Cariou,SUBWAY,7,96.15733736762482
+Corentin-Cariou,Crimée,SUBWAY,7,69.89409984871408
+La Courneuve-8-Mai-1945,Fort d'Aubervilliers,SUBWAY,7,86.89863842662633
+Château Landon,Gare de l'Est (Verdun),SUBWAY,7,78.63842662632376
+Sully-Morland,Jussieu,SUBWAY,7,109.65204236006053
+Cadet,Le Peletier,SUBWAY,7,75.00756429652044
+Censier-Daubenton,Les Gobelins,SUBWAY,7,84.35703479576401
+Stalingrad,Louis Blanc,SUBWAY,7,86.38426626323754
+Pierre et Marie Curie,Mairie d'Ivry,SUBWAY,7,141.5733736762481
+Tolbiac,Maison Blanche,SUBWAY,7,78.66868381240546
+Chaussée d'Antin (La Fayette),Opéra,SUBWAY,7,97.60968229954615
+Pyramides,Palais-Royal (Musée du Louvre),SUBWAY,7,69.8335854765507
+Porte d'Ivry,Pierre et Marie Curie,SUBWAY,7,88.7745839636914
+Jussieu,Place Monge (Jardin des Plantes),SUBWAY,7,75.49167927382754
+Les Gobelins,Place d'Italie,SUBWAY,7,85.17397881996976
+Gare de l'Est (Verdun),Poissonnière,SUBWAY,7,109.2586989409985
+Châtelet,Pont Marie (Cité des Arts),SUBWAY,7,96.12708018154314
+Palais-Royal (Musée du Louvre),Pont Neuf,SUBWAY,7,102.45083207261726
+Maison Blanche,Porte d'Italie,SUBWAY,7,79.90922844175493
+Porte de Choisy,Porte d'Ivry,SUBWAY,7,74.58396369137672
+Porte d'Italie,Porte de Choisy,SUBWAY,7,71.22541603630864
+Aubervilliers Pantin (4 Chemins),Porte de la Villette,SUBWAY,7,120.5446293494705
+Opéra,Pyramides,SUBWAY,7,84.11497730711045
+Crimée,Riquet,SUBWAY,7,65.4160363086233
+Riquet,Stalingrad,SUBWAY,7,75.06807866868382
+Pont Marie (Cité des Arts),Sully-Morland,SUBWAY,7,72.82904689863844
+Place d'Italie,Tolbiac,SUBWAY,7,75.249621785174
+Porte de la Villette,Aubervilliers Pantin (4 Chemins),SUBWAY,7,116.32713026444664
+Le Peletier,Cadet,SUBWAY,7,76.66013712047014
+Les Gobelins,Censier-Daubenton,SUBWAY,7,87.88442703232127
+Opéra,Chaussée d'Antin (La Fayette),SUBWAY,7,93.1439764936337
+Gare de l'Est (Verdun),Château Landon,SUBWAY,7,80.3036238981391
+Pont Marie (Cité des Arts),Châtelet,SUBWAY,7,90.79333986287955
+Crimée,Corentin-Cariou,SUBWAY,7,79.86287952987269
+Riquet,Crimée,SUBWAY,7,63.173359451518124
+Aubervilliers Pantin (4 Chemins),Fort d'Aubervilliers,SUBWAY,7,127.25759059745347
+Poissonnière,Gare de l'Est (Verdun),SUBWAY,7,106.0724779627816
+Place Monge (Jardin des Plantes),Jussieu,SUBWAY,7,87.50244857982372
+Fort d'Aubervilliers,La Courneuve-8-Mai-1945,SUBWAY,7,137.98237022526934
+Chaussée d'Antin (La Fayette),Le Peletier,SUBWAY,7,75.69049951028406
+Place d'Italie,Les Gobelins,SUBWAY,7,87.41429970617044
+Château Landon,Louis Blanc,SUBWAY,7,81.09696376101863
+Porte d'Italie,Maison Blanche,SUBWAY,7,84.15279138099903
+Pyramides,Opéra,SUBWAY,7,91.76297747306563
+Pont Neuf,Palais-Royal (Musée du Louvre),SUBWAY,7,115.2987267384917
+Mairie d'Ivry,Pierre et Marie Curie,SUBWAY,7,99.60822722820765
+Censier-Daubenton,Place Monge (Jardin des Plantes),SUBWAY,7,65.90597453476985
+Tolbiac,Place d'Italie,SUBWAY,7,91.67482859941235
+Cadet,Poissonnière,SUBWAY,7,62.43878550440745
+Sully-Morland,Pont Marie (Cité des Arts),SUBWAY,7,69.57884427032323
+Châtelet,Pont Neuf,SUBWAY,7,86.65034280117533
+Porte de Choisy,Porte d'Italie,SUBWAY,7,76.01371204701275
+Pierre et Marie Curie,Porte d'Ivry,SUBWAY,7,108.92262487757102
+Porte d'Ivry,Porte de Choisy,SUBWAY,7,72.78158667972578
+Corentin-Cariou,Porte de la Villette,SUBWAY,7,78.62879529872676
+Palais-Royal (Musée du Louvre),Pyramides,SUBWAY,7,71.40058765915771
+Stalingrad,Riquet,SUBWAY,7,80.18609206660139
+Louis Blanc,Stalingrad,SUBWAY,7,82.97747306562195
+Jussieu,Sully-Morland,SUBWAY,7,110.71498530852107
+Maison Blanche,Tolbiac,SUBWAY,7,69.25563173359453
+Picpus,Bel-Air,SUBWAY,6,78.84123711340207
+Dugommier,Bercy,SUBWAY,6,72.17319587628867
+Dupleix,Bir-Hakeim (Grenelle),SUBWAY,6,64.88659793814435
+Trocadéro,Boissière,SUBWAY,6,61.17525773195877
+Sèvres-Lecourbe,Cambronne,SUBWAY,6,71.34432989690723
+Kléber,Charles de Gaulle-Etoile,SUBWAY,6,121.28659793814435
+Quai de la Gare,Chevaleret,SUBWAY,6,57.10515463917527
+Place d'Italie,Corvisart,SUBWAY,6,83.70309278350517
+Bel-Air,Daumesnil (Félix Eboué),SUBWAY,6,66.94020618556702
+Saint-Jacques,Denfert-Rochereau,SUBWAY,6,65.56701030927836
+Daumesnil (Félix Eboué),Dugommier,SUBWAY,6,60.43298969072166
+La Motte-Picquet-Grenelle,Dupleix,SUBWAY,6,63.57525773195877
+Raspail,Edgar-Quinet,SUBWAY,6,71.74020618556702
+Corvisart,Glacière,SUBWAY,6,82.56494845360825
+Boissière,Kléber,SUBWAY,6,68.3876288659794
+Cambronne,La Motte-Picquet-Grenelle,SUBWAY,6,68.54845360824743
+Edgar-Quinet,Montparnasse-Bienvenue,SUBWAY,6,83.69072164948454
+Chevaleret,Nationale,SUBWAY,6,69.63711340206187
+Bir-Hakeim (Grenelle),Passy,SUBWAY,6,71.66597938144331
+Montparnasse-Bienvenue,Pasteur,SUBWAY,6,81.7237113402062
+Nation,Picpus,SUBWAY,6,88.24329896907217
+Nationale,Place d'Italie,SUBWAY,6,63.51340206185568
+Bercy,Quai de la Gare,SUBWAY,6,88.66391752577321
+Denfert-Rochereau,Raspail,SUBWAY,6,64.82474226804125
+Glacière,Saint-Jacques,SUBWAY,6,74.09072164948455
+Pasteur,Sèvres-Lecourbe,SUBWAY,6,71.38144329896909
+Passy,Trocadéro,SUBWAY,6,90.90309278350517
+Daumesnil (Félix Eboué),Bel-Air,SUBWAY,6,65.64404713531086
+Quai de la Gare,Bercy,SUBWAY,6,87.62291751320602
+Passy,Bir-Hakeim (Grenelle),SUBWAY,6,63.87647297846405
+Kléber,Boissière,SUBWAY,6,58.15928484355954
+La Motte-Picquet-Grenelle,Cambronne,SUBWAY,6,56.53799268590005
+Nationale,Chevaleret,SUBWAY,6,69.49613978057701
+Glacière,Corvisart,SUBWAY,6,81.1986997155628
+Dugommier,Daumesnil (Félix Eboué),SUBWAY,6,76.8590004063389
+Raspail,Denfert-Rochereau,SUBWAY,6,63.48638764729786
+Bercy,Dugommier,SUBWAY,6,74.92076391710688
+Bir-Hakeim (Grenelle),Dupleix,SUBWAY,6,66.82649329540838
+Montparnasse-Bienvenue,Edgar-Quinet,SUBWAY,6,67.9236082893133
+Saint-Jacques,Glacière,SUBWAY,6,68.65501828524991
+Charles de Gaulle-Etoile,Kléber,SUBWAY,6,120.00000000000003
+Dupleix,La Motte-Picquet-Grenelle,SUBWAY,6,60.60950832994719
+Pasteur,Montparnasse-Bienvenue,SUBWAY,6,94.62007314099961
+Picpus,Nation,SUBWAY,6,135.57903291344982
+Place d'Italie,Nationale,SUBWAY,6,70.04469727752947
+Trocadéro,Passy,SUBWAY,6,90.04876066639578
+Sèvres-Lecourbe,Pasteur,SUBWAY,6,78.35839089800895
+Bel-Air,Picpus,SUBWAY,6,70.25193010971151
+Corvisart,Place d'Italie,SUBWAY,6,91.97480698902886
+Chevaleret,Quai de la Gare,SUBWAY,6,60.73140999593662
+Edgar-Quinet,Raspail,SUBWAY,6,85.13612352702155
+Denfert-Rochereau,Saint-Jacques,SUBWAY,6,65.72937830150346
+Cambronne,Sèvres-Lecourbe,SUBWAY,6,67.7285656237302
+Boissière,Trocadéro,SUBWAY,6,58.68346200731411
+Buttes-Chaumont,Bolivar,SUBWAY,7B,86.50807136788447
+Danube,Botzaris,SUBWAY,7B,91.70773152081564
+Botzaris,Buttes-Chaumont,SUBWAY,7B,71.41886151231947
+Pré-Saint-Gervais,Danube,SUBWAY,7B,59.43925233644861
+Bolivar,Jaurès,SUBWAY,7B,63.517417162276985
+Jaurès,Louis Blanc,SUBWAY,7B,86.55904842820732
+Jaurès,Bolivar,SUBWAY,7B,62.395921835174185
+Buttes-Chaumont,Botzaris,SUBWAY,7B,68.71707731520817
+Bolivar,Buttes-Chaumont,SUBWAY,7B,76.61852166525065
+Louis Blanc,Jaurès,SUBWAY,7B,77.38317757009347
+Botzaris,Place des Fêtes,SUBWAY,7B,86.8139337298216
+Place des Fêtes,Pré-Saint-Gervais,SUBWAY,7B,121.8351741716228
+Iéna,Alma-Marceau,SUBWAY,9,81.20489114226068
+Pont de Sèvres,Billancourt,SUBWAY,9,76.53444676409187
+Grands Boulevards,Bonne Nouvelle,SUBWAY,9,67.22934685356398
+Nation,Buzenval,SUBWAY,9,89.49000894721146
+Voltaire (Léon Blum),Charonne,SUBWAY,9,74.90605427974948
+Havre-Caumartin,Chaussée d'Antin (La Fayette),SUBWAY,9,77.94810617357591
+Robespierre,Croix-de-Chavaux (Jacques Duclos),SUBWAY,9,97.34566060244559
+Porte de Saint-Cloud,Exelmans,SUBWAY,9,87.8079331941545
+Alma-Marceau,Franklin-Roosevelt,SUBWAY,9,110.76647778109158
+Richelieu-Drouot,Grands Boulevards,SUBWAY,9,74.2081717864599
+Saint-Augustin,Havre-Caumartin,SUBWAY,9,86.16164628690727
+Trocadéro,Iéna,SUBWAY,9,83.58484938860724
+Michel-Ange-Auteuil,Jasmin,SUBWAY,9,90.83209066507607
+Ranelagh,La Muette,SUBWAY,9,71.89979123173279
+Croix-de-Chavaux (Jacques Duclos),Mairie de Montreuil,SUBWAY,9,142.77960035788846
+Buzenval,Maraîchers,SUBWAY,9,64.33045034297645
+Billancourt,Marcel Sembat,SUBWAY,9,82.24276767074264
+Michel-Ange-Molitor,Michel-Ange-Auteuil,SUBWAY,9,64.50939457202506
+Exelmans,Michel-Ange-Molitor,SUBWAY,9,59.80316134804654
+Saint-Philippe du Roule,Miromesnil,SUBWAY,9,77.48285117804951
+Rue des Boulets,Nation,SUBWAY,9,87.11005070086492
+République,Oberkampf,SUBWAY,9,84.80167014613781
+Maraîchers,Porte de Montreuil,SUBWAY,9,78.43125559200718
+Marcel Sembat,Porte de Saint-Cloud,SUBWAY,9,140.27438115120788
+Jasmin,Ranelagh,SUBWAY,9,66.37041455413063
+Chaussée d'Antin (La Fayette),Richelieu-Drouot,SUBWAY,9,67.6409185803758
+Porte de Montreuil,Robespierre,SUBWAY,9,117.38741425589026
+La Muette,Rue de la Pompe (Avenue Georges Mandel),SUBWAY,9,113.7190575603937
+Charonne,Rue des Boulets,SUBWAY,9,77.25022368028633
+Strasbourg-Saint-Denis,République,SUBWAY,9,96.37936176558308
+Oberkampf,Saint-Ambroise,SUBWAY,9,85.83954667461975
+Miromesnil,Saint-Augustin,SUBWAY,9,89.99105278854759
+Franklin-Roosevelt,Saint-Philippe du Roule,SUBWAY,9,70.75454816582166
+Bonne Nouvelle,Strasbourg-Saint-Denis,SUBWAY,9,88.97107068297049
+Rue de la Pompe (Avenue Georges Mandel),Trocadéro,SUBWAY,9,83.33432746793918
+Saint-Ambroise,Voltaire (Léon Blum),SUBWAY,9,77.33969579481062
+Franklin-Roosevelt,Alma-Marceau,SUBWAY,9,96.43340857787813
+Marcel Sembat,Billancourt,SUBWAY,9,86.56320541760724
+Strasbourg-Saint-Denis,Bonne Nouvelle,SUBWAY,9,65.80699774266367
+Maraîchers,Buzenval,SUBWAY,9,61.811512415349895
+Rue des Boulets,Charonne,SUBWAY,9,74.05191873589166
+Richelieu-Drouot,Chaussée d'Antin (La Fayette),SUBWAY,9,70.46275395033861
+Mairie de Montreuil,Croix-de-Chavaux (Jacques Duclos),SUBWAY,9,86.73250564334087
+Michel-Ange-Molitor,Exelmans,SUBWAY,9,58.22234762979685
+Saint-Philippe du Roule,Franklin-Roosevelt,SUBWAY,9,74.52595936794584
+Bonne Nouvelle,Grands Boulevards,SUBWAY,9,75.57562076749437
+Chaussée d'Antin (La Fayette),Havre-Caumartin,SUBWAY,9,77.42099322799099
+Alma-Marceau,Iéna,SUBWAY,9,80.43453724604967
+Ranelagh,Jasmin,SUBWAY,9,66.19638826185103
+Rue de la Pompe (Avenue Georges Mandel),La Muette,SUBWAY,9,118.91647855530476
+Porte de Montreuil,Maraîchers,SUBWAY,9,77.048532731377
+Porte de Saint-Cloud,Marcel Sembat,SUBWAY,9,120.72799097065464
+Jasmin,Michel-Ange-Auteuil,SUBWAY,9,95.8916478555305
+Michel-Ange-Auteuil,Michel-Ange-Molitor,SUBWAY,9,66.31489841986456
+Saint-Augustin,Miromesnil,SUBWAY,9,92.75959367945826
+Buzenval,Nation,SUBWAY,9,101.86794582392778
+Saint-Ambroise,Oberkampf,SUBWAY,9,82.05981941309257
+Billancourt,Pont de Sèvres,SUBWAY,9,122.25169300225734
+Robespierre,Porte de Montreuil,SUBWAY,9,113.36343115124156
+Exelmans,Porte de Saint-Cloud,SUBWAY,9,80.62076749435667
+La Muette,Ranelagh,SUBWAY,9,73.03611738148985
+Grands Boulevards,Richelieu-Drouot,SUBWAY,9,67.61851015801355
+Croix-de-Chavaux (Jacques Duclos),Robespierre,SUBWAY,9,98.71896162528218
+Trocadéro,Rue de la Pompe (Avenue Georges Mandel),SUBWAY,9,75.08465011286684
+Nation,Rue des Boulets,SUBWAY,9,75.62641083521446
+Oberkampf,République,SUBWAY,9,78.19977426636571
+Voltaire (Léon Blum),Saint-Ambroise,SUBWAY,9,84.80248306997744
+Havre-Caumartin,Saint-Augustin,SUBWAY,9,74.9153498871332
+Miromesnil,Saint-Philippe du Roule,SUBWAY,9,73.4255079006772
+République,Strasbourg-Saint-Denis,SUBWAY,9,115.69977426636571
+Iéna,Trocadéro,SUBWAY,9,87.40970654627542
+Charonne,Voltaire (Léon Blum),SUBWAY,9,71.86794582392777
+Chemin Vert,Bastille,SUBWAY,8,69.87434875881092
+Grands Boulevards,Bonne Nouvelle,SUBWAY,8,63.89825314128104
+Lourmel,Boucicaut,SUBWAY,8,64.37634079068343
+Liberté,Charenton-Ecoles,SUBWAY,8,88.61170701808153
+Saint-Sébastien-Froissart,Chemin Vert,SUBWAY,8,68.29298191847994
+Félix Faure,Commerce,SUBWAY,8,76.1630401471039
+Invalides,Concorde,SUBWAY,8,105.71253447747473
+Maisons-Alfort-Les Juilliottes,Créteil-L'Echat (Hôpital Henri Mondor),SUBWAY,8,105.49187863928901
+Créteil-Université,Créteil-Préfecture (Hôtel de Ville),SUBWAY,8,132.83481458780264
+Créteil-L'Echat (Hôpital Henri Mondor),Créteil-Université,SUBWAY,8,81.27490039840639
+Montgallet,Daumesnil (Félix Eboué),SUBWAY,8,78.36959852896109
+La Motte-Picquet-Grenelle,Ecole Militaire,SUBWAY,8,103.52436408213302
+Charenton-Ecoles,Ecole Vétérinaire de Maisons-Alfort,SUBWAY,8,115.78915108795589
+Ledru-Rollin,Faidherbe-Chaligny,SUBWAY,8,81.14618449279806
+République,Filles du Calvaire,SUBWAY,8,79.96935335580754
+Boucicaut,Félix Faure,SUBWAY,8,64.10052099295127
+Richelieu-Drouot,Grands Boulevards,SUBWAY,8,73.31290223720504
+La Tour-Maubourg,Invalides,SUBWAY,8,80.07968127490041
+Commerce,La Motte-Picquet-Grenelle,SUBWAY,8,77.72601900091941
+Ecole Militaire,La Tour-Maubourg,SUBWAY,8,68.80784554091328
+Bastille,Ledru-Rollin,SUBWAY,8,71.36377566656452
+Porte de Charenton,Liberté,SUBWAY,8,117.95893349678212
+Balard,Lourmel,SUBWAY,8,69.24915721728472
+Concorde,Madeleine,SUBWAY,8,78.97640208397182
+Maisons-Alfort-Stade,Maisons-Alfort-Les Juilliottes,SUBWAY,8,113.98712840943918
+Ecole Vétérinaire de Maisons-Alfort,Maisons-Alfort-Stade,SUBWAY,8,97.32761262641742
+Daumesnil (Félix Eboué),Michel Bizot,SUBWAY,8,76.42047195832058
+Reuilly-Diderot,Montgallet,SUBWAY,8,68.20104198590255
+Madeleine,Opéra,SUBWAY,8,72.59577076310146
+Créteil-Préfecture (Hôtel de Ville),Pointe du Lac,SUBWAY,8,165.36316273368067
+Michel Bizot,Porte Dorée,SUBWAY,8,80.09806926141589
+Porte Dorée,Porte de Charenton,SUBWAY,8,80.07968127490041
+Faidherbe-Chaligny,Reuilly-Diderot,SUBWAY,8,76.67790376953724
+Opéra,Richelieu-Drouot,SUBWAY,8,76.53079987741343
+Strasbourg-Saint-Denis,République,SUBWAY,8,101.31780570027584
+Filles du Calvaire,Saint-Sébastien-Froissart,SUBWAY,8,62.94207784247626
+Bonne Nouvelle,Strasbourg-Saint-Denis,SUBWAY,8,64.85442844008583
+Lourmel,Balard,SUBWAY,8,133.45487693710118
+Ledru-Rollin,Bastille,SUBWAY,8,73.85597082953511
+Strasbourg-Saint-Denis,Bonne Nouvelle,SUBWAY,8,62.11485870556063
+Félix Faure,Boucicaut,SUBWAY,8,62.388331814038295
+Ecole Vétérinaire de Maisons-Alfort,Charenton-Ecoles,SUBWAY,8,113.25432999088424
+Bastille,Chemin Vert,SUBWAY,8,66.3992707383774
+La Motte-Picquet-Grenelle,Commerce,SUBWAY,8,88.09480401093894
+Madeleine,Concorde,SUBWAY,8,87.73017319963539
+Créteil-Université,Créteil-L'Echat (Hôpital Henri Mondor),SUBWAY,8,84.50319051959892
+Pointe du Lac,Créteil-Préfecture (Hôtel de Ville),SUBWAY,8,120.9115770282589
+Créteil-Préfecture (Hôtel de Ville),Créteil-Université,SUBWAY,8,119.96353691886966
+Michel Bizot,Daumesnil (Félix Eboué),SUBWAY,8,77.81221513217868
+La Tour-Maubourg,Ecole Militaire,SUBWAY,8,67.65724703737467
+Maisons-Alfort-Stade,Ecole Vétérinaire de Maisons-Alfort,SUBWAY,8,104.6855059252507
+Reuilly-Diderot,Faidherbe-Chaligny,SUBWAY,8,70.04557885141296
+Saint-Sébastien-Froissart,Filles du Calvaire,SUBWAY,8,60.036463081130364
+Commerce,Félix Faure,SUBWAY,8,60.00000000000001
+Bonne Nouvelle,Grands Boulevards,SUBWAY,8,62.625341841385605
+Concorde,Invalides,SUBWAY,8,97.88514129443939
+Ecole Militaire,La Motte-Picquet-Grenelle,SUBWAY,8,108.93345487693712
+Invalides,La Tour-Maubourg,SUBWAY,8,90.39197812215134
+Faidherbe-Chaligny,Ledru-Rollin,SUBWAY,8,81.76845943482226
+Charenton-Ecoles,Liberté,SUBWAY,8,93.6189608021878
+Boucicaut,Lourmel,SUBWAY,8,62.041932543299914
+Opéra,Madeleine,SUBWAY,8,70.26435733819508
+Créteil-L'Echat (Hôpital Henri Mondor),Maisons-Alfort-Les Juilliottes,SUBWAY,8,102.20601640838653
+Maisons-Alfort-Les Juilliottes,Maisons-Alfort-Stade,SUBWAY,8,94.80401093892435
+Porte Dorée,Michel Bizot,SUBWAY,8,83.09936189608024
+Daumesnil (Félix Eboué),Montgallet,SUBWAY,8,73.96536007292617
+Richelieu-Drouot,Opéra,SUBWAY,8,85.1777575205105
+Porte de Charenton,Porte Dorée,SUBWAY,8,88.75113947128534
+Liberté,Porte de Charenton,SUBWAY,8,100.43755697356428
+Montgallet,Reuilly-Diderot,SUBWAY,8,84.48495897903375
+Grands Boulevards,Richelieu-Drouot,SUBWAY,8,71.68641750227896
+Filles du Calvaire,République,SUBWAY,8,81.93254329990886
+Chemin Vert,Saint-Sébastien-Froissart,SUBWAY,8,72.26982680036464
+République,Strasbourg-Saint-Denis,SUBWAY,8,116.24430264357338
+Saint-Denis - Porte de Paris,Basilique de Saint-Denis,SUBWAY,13,89.76562500000001
+Mairie de Saint-Ouen,Carrefour-Pleyel,SUBWAY,13,114.07031250000003
+Invalides,Champs-Elysées-Clémenceau,SUBWAY,13,102.09375000000001
+Montparnasse-Bienvenue,Duroc,SUBWAY,13,94.59375000000001
+Porte de Saint-Ouen,Garibaldi,SUBWAY,13,116.53125000000003
+Pernety,Gaîté,SUBWAY,13,82.38281250000001
+La Fourche,Guy-Môquet,SUBWAY,13,109.14843750000003
+Varenne,Invalides,SUBWAY,13,67.94531250000001
+Place de Clichy,La Fourche,SUBWAY,13,63.585937500000014
+Saint-Lazare,Liège,SUBWAY,13,95.10937500000001
+Garibaldi,Mairie de Saint-Ouen,SUBWAY,13,97.17187500000001
+Malakoff-Rue Etienne Dolet,Malakoff-Plateau de Vanves,SUBWAY,13,99.16406250000001
+Châtillon Montrouge,Malakoff-Rue Etienne Dolet,SUBWAY,13,84.77343750000001
+Champs-Elysées-Clémenceau,Miromesnil,SUBWAY,13,98.67187500000001
+Gaîté,Montparnasse-Bienvenue,SUBWAY,13,92.10937500000001
+Plaisance,Pernety,SUBWAY,13,67.12500000000001
+Liège,Place de Clichy,SUBWAY,13,87.91406250000001
+Porte de Vanves,Plaisance,SUBWAY,13,92.83593750000001
+Guy-Môquet,Porte de Saint-Ouen,SUBWAY,13,76.12500000000001
+Malakoff-Plateau de Vanves,Porte de Vanves,SUBWAY,13,104.78906250000003
+Carrefour-Pleyel,Saint-Denis - Porte de Paris,SUBWAY,13,137.953125
+Basilique de Saint-Denis,Saint-Denis-Université,SUBWAY,13,126.14062500000003
+Duroc,Saint-François-Xavier,SUBWAY,13,71.64843750000001
+Miromesnil,Saint-Lazare,SUBWAY,13,124.52343750000003
+Saint-François-Xavier,Varenne,SUBWAY,13,73.78125000000001
+Saint-Denis-Université,Basilique de Saint-Denis,SUBWAY,13,109.02467685076383
+Saint-Denis - Porte de Paris,Carrefour-Pleyel,SUBWAY,13,140.32902467685076
+Miromesnil,Champs-Elysées-Clémenceau,SUBWAY,13,105.14688601645126
+Malakoff-Rue Etienne Dolet,Châtillon Montrouge,SUBWAY,13,99.38895417156287
+Saint-François-Xavier,Duroc,SUBWAY,13,71.39835487661576
+Mairie de Saint-Ouen,Garibaldi,SUBWAY,13,102.74970622796712
+Montparnasse-Bienvenue,Gaîté,SUBWAY,13,83.00822561692128
+Porte de Saint-Ouen,Guy-Môquet,SUBWAY,13,75.86368977673327
+Champs-Elysées-Clémenceau,Invalides,SUBWAY,13,113.18448883666277
+Guy-Môquet,La Fourche,SUBWAY,13,86.55699177438309
+Place de Clichy,Liège,SUBWAY,13,84.39482961222093
+Carrefour-Pleyel,Mairie de Saint-Ouen,SUBWAY,13,117.06227967097534
+Porte de Vanves,Malakoff-Plateau de Vanves,SUBWAY,13,95.88719153936546
+Malakoff-Plateau de Vanves,Malakoff-Rue Etienne Dolet,SUBWAY,13,92.855464159812
+Saint-Lazare,Miromesnil,SUBWAY,13,134.5475910693302
+Duroc,Montparnasse-Bienvenue,SUBWAY,13,97.95534665099883
+Gaîté,Pernety,SUBWAY,13,95.91069330199767
+La Fourche,Place de Clichy,SUBWAY,13,86.58049353701529
+Pernety,Plaisance,SUBWAY,13,67.77908343125736
+Garibaldi,Porte de Saint-Ouen,SUBWAY,13,111.0223266745006
+Plaisance,Porte de Vanves,SUBWAY,13,86.34547591069331
+Basilique de Saint-Denis,Saint-Denis - Porte de Paris,SUBWAY,13,105.35840188014103
+Varenne,Saint-François-Xavier,SUBWAY,13,69.165687426557
+Liège,Saint-Lazare,SUBWAY,13,102.82021151586372
+Invalides,Varenne,SUBWAY,13,65.78143360752057
+République,Arts-et-Métiers,SUBWAY,11,89.79466603729055
+Pyrénées,Belleville,SUBWAY,11,99.33915506254426
+Hôtel de Ville,Châtelet,SUBWAY,11,60.00000000000001
+Belleville,Goncourt (Hôpital Saint-Louis),SUBWAY,11,64.70143969789947
+Rambuteau,Hôtel de Ville,SUBWAY,11,65.72102902997405
+Place des Fêtes,Jourdain,SUBWAY,11,56.785461411375984
+Télégraphe,Place des Fêtes,SUBWAY,11,65.50861458579185
+Mairie des Lilas,Porte des Lilas,SUBWAY,11,90.95586499881993
+Jourdain,Pyrénées,SUBWAY,11,60.14160962945481
+Arts-et-Métiers,Rambuteau,SUBWAY,11,89.3273542600897
+Goncourt (Hôpital Saint-Louis),République,SUBWAY,11,63.313665329242404
+Porte des Lilas,Télégraphe,SUBWAY,11,79.74038234599954
+Rambuteau,Arts-et-Métiers,SUBWAY,11,83.46597598304687
+Goncourt (Hôpital Saint-Louis),Belleville,SUBWAY,11,64.50671061926067
+République,Goncourt (Hôpital Saint-Louis),SUBWAY,11,72.72898516599955
+Châtelet,Hôtel de Ville,SUBWAY,11,60.00000000000001
+Pyrénées,Jourdain,SUBWAY,11,60.00000000000001
+Porte des Lilas,Mairie des Lilas,SUBWAY,11,109.8422415822934
+Jourdain,Place des Fêtes,SUBWAY,11,59.06757711325643
+Télégraphe,Porte des Lilas,SUBWAY,11,71.23145749941136
+Belleville,Pyrénées,SUBWAY,11,92.86084294796328
+Hôtel de Ville,Rambuteau,SUBWAY,11,65.56628208146928
+Arts-et-Métiers,République,SUBWAY,11,83.45184836355075
+Place des Fêtes,Télégraphe,SUBWAY,11,78.59194725688722
+Antony,Orly 1-2-3,SUBWAY,ORLYVAL,360.2654867256637
+Orly 1-2-3,Orly 4,SUBWAY,ORLYVAL,60.26548672566373
+Orly 1-2-3,Antony,SUBWAY,ORLYVAL,366.2876254180602
+Orly 4,Orly 1-2-3,SUBWAY,ORLYVAL,60.00000000000001
+Gare de Lyon,Bercy,SUBWAY,14,79.55254636443922
+Cour Saint-Emilion,Bibliothèque-François Mitterrand,SUBWAY,14,103.94465705033855
+Pyramides,Châtelet,SUBWAY,14,112.79364144833679
+Bercy,Cour Saint-Emilion,SUBWAY,14,99.42302031204005
+Châtelet,Gare de Lyon,SUBWAY,14,190.75654989696793
+Saint-Lazare,Madeleine,SUBWAY,14,94.38916691198118
+Bibliothèque-François Mitterrand,Olympiades,SUBWAY,14,123.10862525758023
+Madeleine,Pyramides,SUBWAY,14,104.35089785104506
+Cour Saint-Emilion,Bercy,SUBWAY,14,79.58567623557268
+Olympiades,Bibliothèque-François Mitterrand,SUBWAY,14,72.8558745190885
+Gare de Lyon,Châtelet,SUBWAY,14,190.21012133767385
+Bibliothèque-François Mitterrand,Cour Saint-Emilion,SUBWAY,14,103.62829239419949
+Bercy,Gare de Lyon,SUBWAY,14,102.40307783367862
+Pyramides,Madeleine,SUBWAY,14,102.33205090263394
+Châtelet,Pyramides,SUBWAY,14,110.73098549866826
+Madeleine,Saint-Lazare,SUBWAY,14,121.66913287955018
+Pigalle,Abbesses,SUBWAY,12,59.984548029873814
+Solférino,Assemblée Nationale,SUBWAY,12,60.72624259593099
+Assemblée Nationale,Concorde,SUBWAY,12,97.64099922740151
+Porte de Versailles,Convention,SUBWAY,12,97.45557558588722
+Mairie d'Issy,Corentin-Celton,SUBWAY,12,74.0612928148339
+Pasteur,Falguière,SUBWAY,12,77.21349472057689
+Porte de la Chapelle,Front Populaire,SUBWAY,12,189.07030646407418
+Lamarck-Caulaincourt,Jules Joffrin,SUBWAY,12,93.71619881534897
+Abbesses,Lamarck-Caulaincourt,SUBWAY,12,81.83363378830802
+Concorde,Madeleine,SUBWAY,12,101.31856811743499
+Jules Joffrin,Marcadet-Poissonniers,SUBWAY,12,65.65542106618595
+Marcadet-Poissonniers,Marx-Dormoy,SUBWAY,12,104.79526139582798
+Falguière,Montparnasse-Bienvenue,SUBWAY,12,70.87818696883855
+Trinité-d'Estienne d'Orves,Notre-Dame de Lorette,SUBWAY,12,75.94643317022921
+Montparnasse-Bienvenue,Notre-Dame des Champs,SUBWAY,12,88.89518413597735
+Volontaires,Pasteur,SUBWAY,12,62.796806592840596
+Saint-Georges,Pigalle,SUBWAY,12,84.50682462013908
+Corentin-Celton,Porte de Versailles,SUBWAY,12,111.50141643059492
+Marx-Dormoy,Porte de la Chapelle,SUBWAY,12,111.91861962400208
+Notre-Dame des Champs,Rennes,SUBWAY,12,66.5979912438836
+Sèvres-Babylone,Rue du Bac,SUBWAY,12,67.30878186968839
+Notre-Dame de Lorette,Saint-Georges,SUBWAY,12,74.78753541076489
+Madeleine,Saint-Lazare,SUBWAY,12,103.91449909863509
+Rue du Bac,Solférino,SUBWAY,12,64.77465876899305
+Rennes,Sèvres-Babylone,SUBWAY,12,72.71697141385528
+Saint-Lazare,Trinité-d'Estienne d'Orves,SUBWAY,12,62.935874323976314
+Convention,Vaugirard (Adolphe Chérioux),SUBWAY,12,78.80504764357457
+Vaugirard (Adolphe Chérioux),Volontaires,SUBWAY,12,71.24903425186713
+Lamarck-Caulaincourt,Abbesses,SUBWAY,12,76.99168556311415
+Concorde,Assemblée Nationale,SUBWAY,12,94.119425547997
+Madeleine,Concorde,SUBWAY,12,83.71882086167803
+Vaugirard (Adolphe Chérioux),Convention,SUBWAY,12,67.2108843537415
+Porte de Versailles,Corentin-Celton,SUBWAY,12,94.07407407407409
+Montparnasse-Bienvenue,Falguière,SUBWAY,12,69.19123204837491
+Marcadet-Poissonniers,Jules Joffrin,SUBWAY,12,74.3310657596372
+Jules Joffrin,Lamarck-Caulaincourt,SUBWAY,12,96.0997732426304
+Saint-Lazare,Madeleine,SUBWAY,12,109.96220710506427
+Corentin-Celton,Mairie d'Issy,SUBWAY,12,131.80650037792896
+Marx-Dormoy,Marcadet-Poissonniers,SUBWAY,12,93.98337112622828
+Porte de la Chapelle,Marx-Dormoy,SUBWAY,12,86.9236583522298
+Notre-Dame des Champs,Montparnasse-Bienvenue,SUBWAY,12,93.15192743764173
+Saint-Georges,Notre-Dame de Lorette,SUBWAY,12,77.14285714285715
+Rennes,Notre-Dame des Champs,SUBWAY,12,68.07256235827666
+Falguière,Pasteur,SUBWAY,12,76.93121693121695
+Abbesses,Pigalle,SUBWAY,12,65.3817082388511
+Convention,Porte de Versailles,SUBWAY,12,108.69236583522299
+Front Populaire,Porte de la Chapelle,SUBWAY,12,141.25472411186698
+Sèvres-Babylone,Rennes,SUBWAY,12,64.06651549508693
+Solférino,Rue du Bac,SUBWAY,12,68.31443688586548
+Pigalle,Saint-Georges,SUBWAY,12,73.65079365079366
+Trinité-d'Estienne d'Orves,Saint-Lazare,SUBWAY,12,85.275888133031
+Assemblée Nationale,Solférino,SUBWAY,12,61.179138321995474
+Rue du Bac,Sèvres-Babylone,SUBWAY,12,71.00529100529101
+Notre-Dame de Lorette,Trinité-d'Estienne d'Orves,SUBWAY,12,65.18518518518519
+Volontaires,Vaugirard (Adolphe Chérioux),SUBWAY,12,75.17762660619805
+Pasteur,Volontaires,SUBWAY,12,62.34315948601664
+Charles Michels,Avenue Emile-Zola,SUBWAY,10,84.96682464454977
+Boulogne Pont de Saint-Cloud,Boulogne-Jean-Jaurès,SUBWAY,10,120.00000000000001
+Maubert-Mutualité,Cardinal-Lemoine,SUBWAY,10,78.0568720379147
+Michel-Ange-Molitor,Chardon-Lagache,SUBWAY,10,71.63033175355451
+Javel-André-Citroen,Charles Michels,SUBWAY,10,82.49289099526068
+Odéon,Cluny-La Sorbonne,SUBWAY,10,58.72037914691944
+Ségur,Duroc,SUBWAY,10,106.29383886255926
+Jussieu,Gare d'Austerlitz,SUBWAY,10,170.4739336492891
+Mirabeau,Javel-André-Citroen,SUBWAY,10,84.36966824644551
+Cardinal-Lemoine,Jussieu,SUBWAY,10,70.46445497630333
+Avenue Emile-Zola,La Motte-Picquet-Grenelle,SUBWAY,10,86.04739336492892
+Sèvres-Babylone,Mabillon,SUBWAY,10,80.44549763033177
+Cluny-La Sorbonne,Maubert-Mutualité,SUBWAY,10,60.00000000000001
+Boulogne-Jean-Jaurès,Michel-Ange-Molitor,SUBWAY,10,134.8436018957346
+Chardon-Lagache,Mirabeau,SUBWAY,10,74.16113744075831
+Mabillon,Odéon,SUBWAY,10,89.45971563981044
+Vaneau,Sèvres-Babylone,SUBWAY,10,75.46919431279622
+La Motte-Picquet-Grenelle,Ségur,SUBWAY,10,96.00000000000001
+Duroc,Vaneau,SUBWAY,10,73.70616113744077
+La Motte-Picquet-Grenelle,Avenue Emile-Zola,SUBWAY,10,72.534435261708
+Boulogne-Jean-Jaurès,Boulogne Pont de Saint-Cloud,SUBWAY,10,150.11019283746558
+Porte d'Auteuil,Boulogne-Jean-Jaurès,SUBWAY,10,156.47382920110192
+Jussieu,Cardinal-Lemoine,SUBWAY,10,71.57024793388432
+Avenue Emile-Zola,Charles Michels,SUBWAY,10,86.85950413223142
+Maubert-Mutualité,Cluny-La Sorbonne,SUBWAY,10,62.61707988980718
+Vaneau,Duroc,SUBWAY,10,86.39118457300277
+Javel-André-Citroen,Eglise d'Auteuil,SUBWAY,10,112.42424242424244
+Charles Michels,Javel-André-Citroen,SUBWAY,10,77.60330578512398
+Gare d'Austerlitz,Jussieu,SUBWAY,10,122.8374655647383
+Ségur,La Motte-Picquet-Grenelle,SUBWAY,10,122.23140495867771
+Odéon,Mabillon,SUBWAY,10,81.43250688705236
+Cardinal-Lemoine,Maubert-Mutualité,SUBWAY,10,73.93939393939395
+Eglise d'Auteuil,Michel-Ange-Auteuil,SUBWAY,10,76.83195592286502
+Cluny-La Sorbonne,Odéon,SUBWAY,10,60.881542699724534
+Michel-Ange-Auteuil,Porte d'Auteuil,SUBWAY,10,105.01377410468321
+Mabillon,Sèvres-Babylone,SUBWAY,10,90.33057851239671
+Duroc,Ségur,SUBWAY,10,88.87052341597797
+Sèvres-Babylone,Vaneau,SUBWAY,10,68.23691460055097
+Avron,Alexandre-Dumas,SUBWAY,2,68.02049371215651
+Barbès-Rochechouart,Anvers,SUBWAY,2,79.89753143921753
+Nation,Avron,SUBWAY,2,100.5356311131812
+La Chapelle,Barbès-Rochechouart,SUBWAY,2,102.9669306008384
+Couronnes,Belleville,SUBWAY,2,76.01304145319051
+Pigalle,Blanche,SUBWAY,2,78.40242198416396
+Ternes,Charles de Gaulle-Etoile,SUBWAY,2,83.2231020027946
+Belleville,Colonel Fabien,SUBWAY,2,85.03959012575689
+Monceau,Courcelles,SUBWAY,2,64.90451793199816
+Ménilmontant,Couronnes,SUBWAY,2,74.60176991150443
+Colonel Fabien,Jaurès,SUBWAY,2,74.97904052165813
+Stalingrad,La Chapelle,SUBWAY,2,80.66604564508619
+Villiers,Monceau,SUBWAY,2,77.10293432696787
+Père-Lachaise,Ménilmontant,SUBWAY,2,73.07871448532838
+Alexandre-Dumas,Philippe Auguste,SUBWAY,2,68.29995342338148
+Anvers,Pigalle,SUBWAY,2,79.10107126222637
+Blanche,Place de Clichy,SUBWAY,2,77.27061015370286
+Victor Hugo,Porte Dauphine (Maréchal de Lattre de Tassigny),SUBWAY,2,126.52538425710293
+Philippe Auguste,Père-Lachaise,SUBWAY,2,85.54261760596182
+Place de Clichy,Rome,SUBWAY,2,82.81788542151841
+Jaurès,Stalingrad,SUBWAY,2,90.79646017699116
+Courcelles,Ternes,SUBWAY,2,68.24406148113648
+Charles de Gaulle-Etoile,Victor Hugo,SUBWAY,2,111.56031672100607
+Rome,Villiers,SUBWAY,2,92.30554261760598
+Philippe Auguste,Alexandre-Dumas,SUBWAY,2,65.69832402234638
+Pigalle,Anvers,SUBWAY,2,84.90223463687153
+Alexandre-Dumas,Avron,SUBWAY,2,73.44972067039107
+Anvers,Barbès-Rochechouart,SUBWAY,2,84.97206703910616
+Colonel Fabien,Belleville,SUBWAY,2,83.88268156424583
+Place de Clichy,Blanche,SUBWAY,2,79.62290502793297
+Victor Hugo,Charles de Gaulle-Etoile,SUBWAY,2,114.2737430167598
+Jaurès,Colonel Fabien,SUBWAY,2,74.39944134078213
+Ternes,Courcelles,SUBWAY,2,69.97206703910616
+Belleville,Couronnes,SUBWAY,2,84.7346368715084
+Stalingrad,Jaurès,SUBWAY,2,91.0614525139665
+Barbès-Rochechouart,La Chapelle,SUBWAY,2,104.1201117318436
+Courcelles,Monceau,SUBWAY,2,63.128491620111745
+Couronnes,Ménilmontant,SUBWAY,2,72.86312849162013
+Avron,Nation,SUBWAY,2,141.5782122905028
+Père-Lachaise,Philippe Auguste,SUBWAY,2,86.74581005586593
+Blanche,Pigalle,SUBWAY,2,78.33798882681566
+Rome,Place de Clichy,SUBWAY,2,81.18715083798884
+Ménilmontant,Père-Lachaise,SUBWAY,2,81.74581005586593
+Villiers,Rome,SUBWAY,2,86.53631284916203
+La Chapelle,Stalingrad,SUBWAY,2,76.6201117318436
+Charles de Gaulle-Etoile,Ternes,SUBWAY,2,70.4050279329609
+Porte Dauphine (Maréchal de Lattre de Tassigny),Victor Hugo,SUBWAY,2,92.62569832402237
+Monceau,Villiers,SUBWAY,2,79.81843575418996
+Louise Michel,Anatole-France,SUBWAY,3,84.45236882322976
+Temple,Arts-et-Métiers,SUBWAY,3,61.986754966887425
+Sentier,Bourse,SUBWAY,3,63.239938869077946
+Saint-Lazare,Europe,SUBWAY,3,95.05858380030567
+Porte de Bagnolet,Gambetta,SUBWAY,3,82.98522669383598
+Opéra,Havre-Caumartin,SUBWAY,3,82.46561385634234
+Porte de Champerret,Louise Michel,SUBWAY,3,77.02496179317373
+Villiers,Malesherbes,SUBWAY,3,91.66581762608254
+Quatre Septembre,Opéra,SUBWAY,3,75.49668874172187
+Rue Saint-Maur,Parmentier,SUBWAY,3,68.84870096790628
+Wagram,Pereire,SUBWAY,3,66.43402954661234
+Anatole-France,Pont de Levallois-Bécon,SUBWAY,3,83.9021905247071
+Gallieni (Parc de Bagnolet),Porte de Bagnolet,SUBWAY,3,89.31227712684668
+Pereire,Porte de Champerret,SUBWAY,3,77.48344370860929
+Gambetta,Père-Lachaise,SUBWAY,3,111.57921548650027
+Bourse,Quatre Septembre,SUBWAY,3,74.67142129393787
+Père-Lachaise,Rue Saint-Maur,SUBWAY,3,78.73662761079981
+Arts-et-Métiers,Réaumur-Sébastopol,SUBWAY,3,67.12175241976568
+Parmentier,République,SUBWAY,3,98.63474274070302
+Havre-Caumartin,Saint-Lazare,SUBWAY,3,67.61079979623027
+Réaumur-Sébastopol,Sentier,SUBWAY,3,73.2195618950586
+République,Temple,SUBWAY,3,61.11563932755986
+Europe,Villiers,SUBWAY,3,80.41772796739686
+Malesherbes,Wagram,SUBWAY,3,68.1304126337239
+Pont de Levallois-Bécon,Anatole-France,SUBWAY,3,90.77565944110735
+Réaumur-Sébastopol,Arts-et-Métiers,SUBWAY,3,84.69574301384175
+Quatre Septembre,Bourse,SUBWAY,3,71.03160094019327
+Villiers,Europe,SUBWAY,3,95.58631496474277
+Porte de Bagnolet,Gallieni (Parc de Bagnolet),SUBWAY,3,84.57038391224864
+Père-Lachaise,Gambetta,SUBWAY,3,112.77618177069732
+Saint-Lazare,Havre-Caumartin,SUBWAY,3,85.55758683729435
+Anatole-France,Louise Michel,SUBWAY,3,65.97022721337164
+Wagram,Malesherbes,SUBWAY,3,70.31078610603292
+Havre-Caumartin,Opéra,SUBWAY,3,67.69391486027685
+République,Parmentier,SUBWAY,3,94.64612170279447
+Porte de Champerret,Pereire,SUBWAY,3,86.41943066074694
+Gambetta,Porte de Bagnolet,SUBWAY,3,98.87699138156178
+Louise Michel,Porte de Champerret,SUBWAY,3,80.10446591799428
+Rue Saint-Maur,Père-Lachaise,SUBWAY,3,73.69548184904676
+Opéra,Quatre Septembre,SUBWAY,3,81.74980412640377
+Parmentier,Rue Saint-Maur,SUBWAY,3,79.49334029772788
+Sentier,Réaumur-Sébastopol,SUBWAY,3,62.06842517628625
+Temple,République,SUBWAY,3,61.78636719770176
+Europe,Saint-Lazare,SUBWAY,3,78.97623400365632
+Bourse,Sentier,SUBWAY,3,66.33063463045183
+Arts-et-Métiers,Temple,SUBWAY,3,65.8291982240794
+Malesherbes,Villiers,SUBWAY,3,93.6275790023505
+Pereire,Wagram,SUBWAY,3,61.58265865761296
+Bréguet-Sabin,Bastille,SUBWAY,5,77.71121351766514
+Bobigny-Pablo-Picasso,Bobigny-Pantin (Raymond Queneau),SUBWAY,5,191.58218125960062
+Richard-Lenoir,Bréguet-Sabin,SUBWAY,5,78.66359447004609
+Saint-Marcel,Campo-Formio,SUBWAY,5,62.0583717357911
+Bobigny-Pantin (Raymond Queneau),Eglise de Pantin,SUBWAY,5,115.02304147465439
+Quai de la Rapée,Gare d'Austerlitz,SUBWAY,5,103.28725038402459
+Gare du Nord,Gare de l'Est (Verdun),SUBWAY,5,122.90322580645162
+Stalingrad,Gare du Nord,SUBWAY,5,145.08448540706604
+Eglise de Pantin,Hoche,SUBWAY,5,87.03533026113672
+Gare de l'Est (Verdun),Jacques-Bonsergent,SUBWAY,5,96.95852534562214
+Laumière,Jaurès,SUBWAY,5,77.38863287250385
+Ourcq,Laumière,SUBWAY,5,85.65284178187406
+République,Oberkampf,SUBWAY,5,96.98924731182797
+Porte de Pantin,Ourcq,SUBWAY,5,78.81720430107528
+Campo-Formio,Place d'Italie,SUBWAY,5,171.3978494623656
+Hoche,Porte de Pantin,SUBWAY,5,100.00000000000001
+Bastille,Quai de la Rapée,SUBWAY,5,103.76344086021507
+Oberkampf,Richard-Lenoir,SUBWAY,5,79.35483870967744
+Jacques-Bonsergent,République,SUBWAY,5,91.49001536098312
+Gare d'Austerlitz,Saint-Marcel,SUBWAY,5,97.08141321044549
+Jaurès,Stalingrad,SUBWAY,5,64.4546850998464
+Quai de la Rapée,Bastille,SUBWAY,5,110.6467913087418
+Bobigny-Pantin (Raymond Queneau),Bobigny-Pablo-Picasso,SUBWAY,5,251.67256189994947
+Eglise de Pantin,Bobigny-Pantin (Raymond Queneau),SUBWAY,5,109.9191510864073
+Bastille,Bréguet-Sabin,SUBWAY,5,70.00505305709956
+Place d'Italie,Campo-Formio,SUBWAY,5,87.19555330975241
+Hoche,Eglise de Pantin,SUBWAY,5,105.17433046993432
+Saint-Marcel,Gare d'Austerlitz,SUBWAY,5,97.12481051035878
+Jacques-Bonsergent,Gare de l'Est (Verdun),SUBWAY,5,109.9191510864073
+Gare de l'Est (Verdun),Gare du Nord,SUBWAY,5,118.65083375442144
+Porte de Pantin,Hoche,SUBWAY,5,89.12076806467914
+République,Jacques-Bonsergent,SUBWAY,5,80.55583628094999
+Stalingrad,Jaurès,SUBWAY,5,68.23143001515919
+Jaurès,Laumière,SUBWAY,5,75.4168772107125
+Richard-Lenoir,Oberkampf,SUBWAY,5,84.75492673067207
+Laumière,Ourcq,SUBWAY,5,78.433552299141
+Ourcq,Porte de Pantin,SUBWAY,5,77.99393633148055
+Gare d'Austerlitz,Quai de la Rapée,SUBWAY,5,93.00151591712988
+Bréguet-Sabin,Richard-Lenoir,SUBWAY,5,78.58514401212736
+Oberkampf,République,SUBWAY,5,105.99292572006065
+Campo-Formio,Saint-Marcel,SUBWAY,5,62.25871652349672
+Gare du Nord,Stalingrad,SUBWAY,5,126.07882769075292
+Mouton-Duvernet,Alésia,SUBWAY,4,73.38674143801323
+Château Rouge,Barbès-Rochechouart,SUBWAY,4,64.30202283196476
+Marcadet-Poissonniers,Château Rouge,SUBWAY,4,58.786300821149624
+Gare de l'Est (Verdun),Château d'Eau,SUBWAY,4,68.06328860404568
+Les Halles,Châtelet,SUBWAY,4,73.87943120368517
+Châtelet,Cité,SUBWAY,4,81.51011415982377
+Raspail,Denfert-Rochereau,SUBWAY,4,79.09473262567596
+Réaumur-Sébastopol,Etienne Marcel,SUBWAY,4,68.32765872221111
+Gare du Nord,Gare de l'Est (Verdun),SUBWAY,4,86.10054075705989
+Barbès-Rochechouart,Gare du Nord,SUBWAY,4,110.53074304025635
+Etienne Marcel,Les Halles,SUBWAY,4,68.49589425195275
+Porte d'Orléans (Général Leclerc),Mairie de Montrouge,SUBWAY,4,111.58822351291809
+Simplon,Marcadet-Poissonniers,SUBWAY,4,60.54075705988385
+Saint-Placide,Montparnasse-Bienvenue,SUBWAY,4,84.31003404766675
+Denfert-Rochereau,Mouton-Duvernet,SUBWAY,4,64.86681353895455
+Saint-Michel,Odéon,SUBWAY,4,64.10975365511717
+Alésia,Porte d'Orléans (Général Leclerc),SUBWAY,4,76.34288003204487
+Vavin,Raspail,SUBWAY,4,75.97035850190268
+Strasbourg-Saint-Denis,Réaumur-Sébastopol,SUBWAY,4,68.15942319246948
+Odéon,Saint-Germain des Prés,SUBWAY,4,65.76807530542762
+Cité,Saint-Michel,SUBWAY,4,61.64630482675747
+Saint-Sulpice,Saint-Placide,SUBWAY,4,73.61506108551974
+Saint-Germain des Prés,Saint-Sulpice,SUBWAY,4,72.02884037652714
+Porte de Clignancourt,Simplon,SUBWAY,4,53.811335870218315
+Château d'Eau,Strasbourg-Saint-Denis,SUBWAY,4,63.19647506509114
+Montparnasse-Bienvenue,Vavin,SUBWAY,4,62.25916282795915
+Porte d'Orléans (Général Leclerc),Alésia,SUBWAY,4,85.6447688564477
+Gare du Nord,Barbès-Rochechouart,SUBWAY,4,103.4549878345499
+Barbès-Rochechouart,Château Rouge,SUBWAY,4,67.79805352798054
+Strasbourg-Saint-Denis,Château d'Eau,SUBWAY,4,62.01946472019466
+Cité,Châtelet,SUBWAY,4,73.52798053527982
+Saint-Michel,Cité,SUBWAY,4,65.81508515815086
+Mouton-Duvernet,Denfert-Rochereau,SUBWAY,4,47.944038929440396
+Les Halles,Etienne Marcel,SUBWAY,4,65.63260340632604
+Château d'Eau,Gare de l'Est (Verdun),SUBWAY,4,67.2749391727494
+Gare de l'Est (Verdun),Gare du Nord,SUBWAY,4,94.87834549878346
+Châtelet,Les Halles,SUBWAY,4,70.34063260340633
+Château Rouge,Marcadet-Poissonniers,SUBWAY,4,57.29927007299271
+Vavin,Montparnasse-Bienvenue,SUBWAY,4,60.09732360097325
+Alésia,Mouton-Duvernet,SUBWAY,4,57.78588807785889
+Saint-Germain des Prés,Odéon,SUBWAY,4,61.459854014598555
+Mairie de Montrouge,Porte d'Orléans (Général Leclerc),SUBWAY,4,79.27007299270075
+Simplon,Porte de Clignancourt,SUBWAY,4,79.76885644768858
+Denfert-Rochereau,Raspail,SUBWAY,4,72.5425790754258
+Etienne Marcel,Réaumur-Sébastopol,SUBWAY,4,67.88321167883213
+Saint-Sulpice,Saint-Germain des Prés,SUBWAY,4,74.62287104622872
+Odéon,Saint-Michel,SUBWAY,4,76.37469586374696
+Montparnasse-Bienvenue,Saint-Placide,SUBWAY,4,79.37956204379563
+Saint-Placide,Saint-Sulpice,SUBWAY,4,64.64720194647204
+Marcadet-Poissonniers,Simplon,SUBWAY,4,56.92214111922142
+Réaumur-Sébastopol,Strasbourg-Saint-Denis,SUBWAY,4,70.3771289537713
+Raspail,Vavin,SUBWAY,4,64.96350364963504
+Pelleport,Gambetta,SUBWAY,3B,64.01162790697676
+Saint-Fargeau,Pelleport,SUBWAY,3B,60.00000000000001
+Porte des Lilas,Saint-Fargeau,SUBWAY,3B,96.84593023255816
+Gambetta,Pelleport,SUBWAY,3B,60.00000000000001
+Saint-Fargeau,Porte des Lilas,SUBWAY,3B,60.08720930232559
+Pelleport,Saint-Fargeau,SUBWAY,3B,94.40406976744187
+Charles de Gaulle-Etoile,Argentine,SUBWAY,1,73.35008699014112
+Gare de Lyon,Bastille,SUBWAY,1,145.4939106901218
+Château de Vincennes,Bérault,SUBWAY,1,79.36980475546106
+Concorde,Champs-Elysées-Clémenceau,SUBWAY,1,100.22424125265805
+George V,Charles de Gaulle-Etoile,SUBWAY,1,86.21302919002514
+Hôtel de Ville,Châtelet,SUBWAY,1,81.57355499710035
+Tuileries,Concorde,SUBWAY,1,75.9365938526967
+Pont de Neuilly,Esplanade de la Défense,SUBWAY,1,101.37251111540694
+Champs-Elysées-Clémenceau,Franklin-Roosevelt,SUBWAY,1,73.6168567562343
+Reuilly-Diderot,Gare de Lyon,SUBWAY,1,98.35685289000581
+Franklin-Roosevelt,George V,SUBWAY,1,82.81461434370773
+Saint-Paul (Le Marais),Hôtel de Ville,SUBWAY,1,79.82215348927123
+Esplanade de la Défense,La Défense (Grande Arche),SUBWAY,1,134.25478445776145
+Porte Maillot,Les Sablons (Jardin d'acclimatation),SUBWAY,1,99.51672143823701
+Châtelet,Louvre-Rivoli,SUBWAY,1,68.03788903924223
+Porte de Vincennes,Nation,SUBWAY,1,97.95089889812489
+Louvre-Rivoli,Palais-Royal (Musée du Louvre),SUBWAY,1,62.27334235453316
+Les Sablons (Jardin d'acclimatation),Pont de Neuilly,SUBWAY,1,91.33964817320705
+Argentine,Porte Maillot,SUBWAY,1,94.1001353179973
+Saint-Mandé,Porte de Vincennes,SUBWAY,1,107.68219601778468
+Nation,Reuilly-Diderot,SUBWAY,1,101.46530059926543
+Bérault,Saint-Mandé,SUBWAY,1,74.24318577227915
+Bastille,Saint-Paul (Le Marais),SUBWAY,1,115.16334815387592
+Palais-Royal (Musée du Louvre),Tuileries,SUBWAY,1,69.47612603904892
+Porte Maillot,Argentine,SUBWAY,1,78.74567141208158
+Saint-Paul (Le Marais),Bastille,SUBWAY,1,120.54251635244327
+Saint-Mandé,Bérault,SUBWAY,1,89.50365525202002
+Franklin-Roosevelt,Champs-Elysées-Clémenceau,SUBWAY,1,86.0523278183917
+Argentine,Charles de Gaulle-Etoile,SUBWAY,1,88.141592920354
+Bérault,Château de Vincennes,SUBWAY,1,125.20584840323201
+Louvre-Rivoli,Châtelet,SUBWAY,1,74.93651404386304
+Champs-Elysées-Clémenceau,Concorde,SUBWAY,1,93.08195459792229
+La Défense (Grande Arche),Esplanade de la Défense,SUBWAY,1,83.40900346287034
+George V,Franklin-Roosevelt,SUBWAY,1,76.64486340900348
+Bastille,Gare de Lyon,SUBWAY,1,129.64986533282033
+Charles de Gaulle-Etoile,George V,SUBWAY,1,72.7318199307426
+Châtelet,Hôtel de Ville,SUBWAY,1,71.49672951135054
+Pont de Neuilly,Les Sablons (Jardin d'acclimatation),SUBWAY,1,82.41631396691037
+Palais-Royal (Musée du Louvre),Louvre-Rivoli,SUBWAY,1,61.63909195844557
+Reuilly-Diderot,Nation,SUBWAY,1,107.33743747595231
+Tuileries,Palais-Royal (Musée du Louvre),SUBWAY,1,88.60330896498654
+Esplanade de la Défense,Pont de Neuilly,SUBWAY,1,96.0253943824548
+Les Sablons (Jardin d'acclimatation),Porte Maillot,SUBWAY,1,103.48210850327051
+Nation,Porte de Vincennes,SUBWAY,1,89.61908426317815
+Gare de Lyon,Reuilly-Diderot,SUBWAY,1,100.76952674105426
+Porte de Vincennes,Saint-Mandé,SUBWAY,1,99.7999230473259
+Hôtel de Ville,Saint-Paul (Le Marais),SUBWAY,1,91.44286263947673
+Concorde,Tuileries,SUBWAY,1,61.038861100423254
+Funiculaire Gare basse,Funiculaire Gare haute,SUBWAY,FUNICULAIRE,300.0
+Funiculaire Gare haute,Funiculaire Gare basse,SUBWAY,FUNICULAIRE,300.0
