@@ -1,0 +1,34 @@
+/*
+Louvain algorithm on a cypher projected graph, where a virtual relationship is created between two products when they have been bought together
+*/
+CALL algo.louvain.stream("MATCH (p:Product) RETURN id(p) as id",
+			 "MATCH (p:Product)<-[:ORDERS]-(:Order)-[:ORDERS]->(q:Product) RETURN id(p) as source, id(q) as target", 
+                         {direction: "BOTH", graph: "cypher"})
+YIELD nodeId, community
+RETURN algo.asNode(nodeId).productName, algo.asNode(nodeId).productID, community
+ORDER BY community
+
+
+/*Write the results to the graph
+*/
+CALL algo.louvain("MATCH (p:Product) RETURN id(p) as id",
+		  "MATCH (p:Product)<-[:ORDERS]-(:Order)-[:ORDERS]->(q:Product) RETURN id(p) as source, id(q) as target", 
+                  {direction: "BOTH", graph: "cypher", writeProperty: "louvain"})
+YIELD nodes, communityCount
+RETURN nodes, communityCount
+
+/*
+Recommendation product that are in the same cluster
+*/
+MATCH (p:Product {productName: "Chai"})
+MATCH (q:Product {louvain: p.louvain})
+WHERE p <> q
+RETURN q.productName
+
+/*
+We can add more constraints, for instance selecting products in the same category
+*/
+MATCH (p:Product {productName: "Chai"})-[:PART_OF]->(c:Category)
+MATCH (q:Product {louvain: p.louvain})-[:PART_OF]->(:Category {categoryName: c.categoryName})
+WHERE p <> q
+RETURN q.productName, c.categoryName

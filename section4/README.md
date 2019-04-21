@@ -1,1 +1,3 @@
-# 
+# Detect similarities between nodes
+
+
